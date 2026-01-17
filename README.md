@@ -39,7 +39,7 @@ This project captures an image using a webcam, describes the image using Azure C
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/sponge-24/Smart-Eye
+   git clone https://github.com/ritikar1/Smart-Eye-for-Visually-Impaired
    cd Smart-Eye
    ```
 
